@@ -1,0 +1,13 @@
+ul{ list-style-type:disc ;
+                        
+                             }
+
+li{ display: inline-block ; 
+                        
+
+      padding: 20px;              }
+
+a{   text-decoration: none;  }
+
+
+div{display: inline-block;}
